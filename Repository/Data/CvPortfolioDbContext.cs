@@ -9,6 +9,7 @@ namespace Repository.Data
  public   class CvPortfolioDbContext:DbContext
     {
         public CvPortfolioDbContext(DbContextOptions<CvPortfolioDbContext> options) : base(options) { }
+        public DbSet<Admin> Admins { get; set; }
         public DbSet<Caption> Captions { get; set; }
         public DbSet<CaptionIcon> CaptionIcons { get; set; }
         public DbSet<Client> Clients { get; set; }

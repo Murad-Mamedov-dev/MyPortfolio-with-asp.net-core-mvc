@@ -158,3 +158,4 @@ C:\Users\User\Desktop\CVPortfolio\CvPortfolio\CvPortfolio\obj\Debug\netcoreapp3.
 C:\Users\User\Desktop\CVPortfolio\CvPortfolio\CvPortfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Service\Default.cshtml.g.cs
 C:\Users\User\Desktop\CVPortfolio\CvPortfolio\CvPortfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Skill\Default.cshtml.g.cs
 C:\Users\User\Desktop\CVPortfolio\CvPortfolio\CvPortfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Info\Default.cshtml.g.cs
+C:\Users\User\Desktop\CVPortfolio\CvPortfolio\CvPortfolio\bin\Debug\netcoreapp3.1\CryptoHelper.dll
